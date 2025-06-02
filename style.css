@@ -66,8 +66,8 @@ ul li::before {
   position: fixed;
   top: 20px;
   right: 20px;
-  width: 200px;
-  height: 350px;
+  width: 170px;
+  height: 250px;
   border-radius: 0;
   box-shadow: 0 0 10px rgba(6, 6, 6, 0.5);
   z-index: 1000;
